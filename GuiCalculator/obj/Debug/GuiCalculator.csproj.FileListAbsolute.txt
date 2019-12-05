@@ -1,0 +1,25 @@
+F:\c# practice\OOPProgramming\GuiCalculator\GuiCalculator\bin\Debug\GuiCalculator.exe.config
+F:\c# practice\OOPProgramming\GuiCalculator\GuiCalculator\bin\Debug\GuiCalculator.exe
+F:\c# practice\OOPProgramming\GuiCalculator\GuiCalculator\bin\Debug\GuiCalculator.pdb
+F:\c# practice\OOPProgramming\GuiCalculator\GuiCalculator\bin\Debug\MetroFramework.dll
+F:\c# practice\OOPProgramming\GuiCalculator\GuiCalculator\obj\Debug\GuiCalculator.csprojResolveAssemblyReference.cache
+F:\c# practice\OOPProgramming\GuiCalculator\GuiCalculator\obj\Debug\GuiCalculator.Form1.resources
+F:\c# practice\OOPProgramming\GuiCalculator\GuiCalculator\obj\Debug\GuiCalculator.Properties.Resources.resources
+F:\c# practice\OOPProgramming\GuiCalculator\GuiCalculator\obj\Debug\GuiCalculator.csproj.GenerateResource.Cache
+F:\c# practice\OOPProgramming\GuiCalculator\GuiCalculator\obj\Debug\GuiCalculator.exe
+F:\c# practice\OOPProgramming\GuiCalculator\GuiCalculator\obj\Debug\GuiCalculator.pdb
+F:\c# practice\OOPProgramming\GuiCalculator\GuiCalculator\obj\Debug\GuiCalculator.StartForm.resources
+F:\c# practice\OOPProgramming\GuiCalculator\GuiCalculator\obj\Debug\GuiCalculator.SelectionForm.resources
+F:\c# practice\OOPProgramming\GuiCalculator\GuiCalculator\obj\Debug\GuiCalculator.ConversionCal.resources
+E:\Bs 5th tasks\GuiCalculator final version\GuiCalculator\bin\Debug\GuiCalculator.exe.config
+E:\Bs 5th tasks\GuiCalculator final version\GuiCalculator\obj\Debug\GuiCalculator.exe
+E:\Bs 5th tasks\GuiCalculator final version\GuiCalculator\obj\Debug\GuiCalculator.pdb
+E:\Bs 5th tasks\GuiCalculator final version\GuiCalculator\bin\Debug\GuiCalculator.exe
+E:\Bs 5th tasks\GuiCalculator final version\GuiCalculator\bin\Debug\GuiCalculator.pdb
+E:\Bs 5th tasks\GuiCalculator final version\GuiCalculator\obj\Debug\GuiCalculator.csprojResolveAssemblyReference.cache
+E:\Bs 5th tasks\GuiCalculator final version\GuiCalculator\obj\Debug\GuiCalculator.ConversionCal.resources
+E:\Bs 5th tasks\GuiCalculator final version\GuiCalculator\obj\Debug\GuiCalculator.Form1.resources
+E:\Bs 5th tasks\GuiCalculator final version\GuiCalculator\obj\Debug\GuiCalculator.Properties.Resources.resources
+E:\Bs 5th tasks\GuiCalculator final version\GuiCalculator\obj\Debug\GuiCalculator.SelectionForm.resources
+E:\Bs 5th tasks\GuiCalculator final version\GuiCalculator\obj\Debug\GuiCalculator.StartForm.resources
+E:\Bs 5th tasks\GuiCalculator final version\GuiCalculator\obj\Debug\GuiCalculator.csproj.GenerateResource.Cache
